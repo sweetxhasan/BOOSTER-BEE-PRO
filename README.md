@@ -21,7 +21,7 @@ pkg update && pkg upgrade -y
 pkg install nodejs git -y
 
 # Clone and run
-git clone https://github.com/yourusername/booster-bee.git
+git clone https://github.com/sweetxhasan/BOOSTER-BEE-PRO.git
 cd booster-bee
 
 # Start the application
