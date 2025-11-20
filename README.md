@@ -11,6 +11,35 @@
 [![Termux](https://img.shields.io/badge/Termux-Supported-success?style=flat-square&logo=android)](https://termux.com)
 [![Node.js](https://img.shields.io/badge/Node.js-Required-orange?style=flat-square&logo=nodedotjs)](https://nodejs.org)
 
+<br>
+
+<div align="center">
+  
+## 👨‍💻 Author
+
+<div align="center">
+  
+**🖼️ HASAN**  
+**🌟 Professional Developer & Tool Creator**
+
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/SWEETxPRO)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-green?style=for-the-badge&logo=whatsapp)](https://wa.me/8801744298642)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/sweetxhasan)
+
+</div>
+
+<br>
+
+## 📞 Contact Information
+
+| Platform | Link |
+|----------|------|
+| **📱 Facebook** | [SWEETxPRO](https://www.facebook.com/SWEETxPRO) |
+| **💬 WhatsApp** | [+8801744298642](https://wa.me/8801744298642) |
+| **💻 GitHub** | [sweetxhasan](https://github.com/sweetxhasan) |
+
+</div>
+
 </div>
 
 ## ✨ Features
