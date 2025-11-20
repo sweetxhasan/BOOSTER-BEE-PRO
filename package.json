@@ -1,0 +1,24 @@
+{
+  "name": "booster-bee",
+  "version": "2.0.0",
+  "description": "Advanced Website Visitor Boosting Tool with 99% Success Rate",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "ws": "^8.14.0"
+  },
+  "author": "Booster Bee Team",
+  "license": "MIT",
+  "keywords": [
+    "website-traffic",
+    "visitor-booster",
+    "seo-tool",
+    "traffic-generator"
+  ]
+}
